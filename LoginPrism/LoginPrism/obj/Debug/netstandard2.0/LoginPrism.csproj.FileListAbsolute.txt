@@ -1,0 +1,14 @@
+C:\Users\bryan\source\repos\LoginPrism\LoginPrism\LoginPrism\bin\Debug\netstandard2.0\LoginPrism.deps.json
+C:\Users\bryan\source\repos\LoginPrism\LoginPrism\LoginPrism\bin\Debug\netstandard2.0\LoginPrism.dll
+C:\Users\bryan\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\LoginPrism.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bryan\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\bryan\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\LoginPrism.AssemblyInfoInputs.cache
+C:\Users\bryan\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\LoginPrism.AssemblyInfo.cs
+C:\Users\bryan\source\repos\LoginPrism\LoginPrism\LoginPrism\bin\Debug\netstandard2.0\LoginPrism.pdb
+C:\Users\bryan\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\Views\LoguedPage.xaml.g.cs
+C:\Users\bryan\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bryan\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\LoginPrism.dll
+C:\Users\bryan\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\LoginPrism.pdb
+C:\Users\bryan\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\Views\DocentesPage.xaml.g.cs
+C:\Users\bryan\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\Views\MateriasPage.xaml.g.cs

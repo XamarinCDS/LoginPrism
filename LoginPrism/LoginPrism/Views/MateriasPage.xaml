@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="http://prismlibrary.com"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="LoginPrism.Views.MateriasPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView ItemsSource="{Binding Materias}"
+                      HasUnevenRows="True"
+                      Header="{Binding }"
+                      >
+                <ListView.HeaderTemplate>
+                    <DataTemplate>
+                        <ContentView>
+                            <StackLayout>
+                                <Entry Placeholder="Nombre de la materia" Text="{Binding Nombre}"/>
+                                <Entry Placeholder="Descripcion de la materia" Text="{Binding Descripcion}"/>
+                                <Button Text="Registrar" BackgroundColor="MediumAquamarine" TextColor="White" Command="{Binding RegisterCommand}"/>
+                            </StackLayout>
+                        </ContentView>
+                    </DataTemplate>
+                </ListView.HeaderTemplate>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Frame>
+                                    <StackLayout>
+                                        <Label Text="{Binding nombre}" FontAttributes="Bold"/>
+                                        <Label Text="{Binding descripcion}"/>
+                                    </StackLayout>
+                                </Frame>
+                                <BoxView HeightRequest="1"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
